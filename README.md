@@ -4,7 +4,7 @@
 ([σελίδα ΟΑΕΔ](http://www.oaed.gr/koinonikos-tourismos-2016-2017), [καταλύματα](http://www.oaed.gr/documents/10195/1376087/PAROXOIEGKEKRIMENOI%282%29.xls/1988c4ce-f1bc-49bb-adaa-4f0a16530c35)) και τα εμφανίζει σε ένα χάρτη Google για ευκολότερη αναζήτηση.
 
 ## paroxoi.ods
-Ο spreadsheet των παρόχων σε ods μορφή
+Το spreadsheet των παρόχων σε ods μορφή
 
 ## paroxoi.csv
 Το ίδιο αρχείο σε CSV μορφή
