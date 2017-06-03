@@ -1,5 +1,9 @@
 # Καταλύματα κοινονικού τουρισμού
 
+## TL;DR;
+
+https://jimmykarily.github.io/koinonikos_tourismos/
+
 Το συγκεκριμένο project χρησιμοποιεί τα δημοσιοποιημένα καταλύματα από τον ΟΑΕΔ
 ([σελίδα ΟΑΕΔ](http://www.oaed.gr/koinonikos-tourismos-2016-2017), [καταλύματα](http://www.oaed.gr/documents/10195/1376087/PAROXOIEGKEKRIMENOI%282%29.xls/1988c4ce-f1bc-49bb-adaa-4f0a16530c35)) και τα εμφανίζει σε ένα χάρτη Google για ευκολότερη αναζήτηση.
 
